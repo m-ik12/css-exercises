@@ -1,0 +1,17 @@
+    .black-pink-text{
+        background-color: #ffa6a7;
+        font-family: Verdana, DejaVu Sans, sans-serif;
+    }
+    #blue-white-text{
+        background-color: white;
+        color: blue;
+        font-size: 36px;
+    }
+    .black-pink-text.big{
+        font-size: 24px;
+    }
+    #black-green-text{
+        background-color: #88fc84;
+        font-size: 24px;
+        font-weight: bold;
+    }
